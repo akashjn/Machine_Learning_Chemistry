@@ -1,0 +1,6 @@
+Compare Linear Regression, SVM and GPR models
+
+Apply IQR
+
+Active Learning notebook
+
